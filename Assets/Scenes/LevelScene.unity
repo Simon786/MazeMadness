@@ -1732,6 +1732,11 @@ PrefabInstance:
       propertyPath: m_TagString
       value: FinishPoint
       objectReference: {fileID: 0}
+    - target: {fileID: 4579239091574906684, guid: ea392aab95169c744aac20de6cb2102d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57e3051d331866248a68bce6189612b6, type: 2}
     - target: {fileID: 4639481677776217332, guid: ea392aab95169c744aac20de6cb2102d,
         type: 3}
       propertyPath: endLevelUI
